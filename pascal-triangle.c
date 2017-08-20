@@ -1,3 +1,4 @@
+//Formatting incorrect for 2 digit nos
 #include<stdio.h>
 
 void main(){
