@@ -20,6 +20,7 @@ void main(){
 				else
 					continue;
 			}i=-1;
+			//it,s a comment
 					}
 		}
 		else break;
